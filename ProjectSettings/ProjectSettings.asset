@@ -580,10 +580,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 03c972f6-53a8-4f6a-8b35-9d228200e5f9
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: LearningTilemap
+  organizationId: 8a7c2049-0be2-4dec-a4b1-9292047a7e6f
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
